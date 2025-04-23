@@ -1,5 +1,5 @@
-##  👋
-Hello, I am mwk a tweak programmer and a specialist in system modifications.
+## Hello, I am mwk a tweak programmer and a specialist in system modifications. 👋
+
 <!--
 **mwkambrose/mwkambrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
