@@ -11,7 +11,7 @@
 * JS
 * HTML 
 * CSS 
-* batch fiel
+* batch file
 
 
 
