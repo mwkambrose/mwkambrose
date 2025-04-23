@@ -4,12 +4,13 @@
 
 
 * Skills:
+* batch file
 * VUE JS 
 * REACT 
 * JS
 * HTML 
 * CSS 
-* batch file
+
 
 
 
