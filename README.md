@@ -3,7 +3,7 @@
 ![ I am mwk a tweak programmer and a specialist in system modifications. ](https://cdn.discordapp.com/splashes/1222642695248547940/723ed0c8030844cf7843ac23175ff412.jpg?size=480)
 
 <img src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif" width="200px" alt="gif"/>
-Skills: VUE JS / REACT / JS / HTML / CSS / Batch file
+<img src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif" width="200px" alt="gif"/> Skills: VUE JS / REACT / JS / HTML / CSS / Batch file
 
  
 
